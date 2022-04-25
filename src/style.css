@@ -11,11 +11,12 @@ body {
     max-width: 317px;
     width: 100%;
     margin: 20px auto;
-    background: #1A1B21;
+    background-color: #1a1b21;
 
     color: #fff;
 }
 
+/*INFO*/
 .info {
     max-width: 100%;
     text-align: center;
@@ -79,6 +80,7 @@ body {
     margin-right: 9.6px;
 }
 
+/*ABOUT & INTEREST*/
 .about,
 .interest {
     margin-top: 30px;
@@ -110,6 +112,8 @@ body {
 
     color: #dcdcdc;
 }
+
+/*FOOTER*/
 
 .footer {
     max-width: 317px;
